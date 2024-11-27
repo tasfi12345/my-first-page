@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <title>বাংলা টেক্সট</title>
+</head>
+<body>
+    <h1 id="message"></h1>
+
+    <script>
+        document.getElementById('message').innerText = "স্বাগতম আমার ওয়েবসাইটে!";
+    </script>
+</body>
+</html>
